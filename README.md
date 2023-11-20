@@ -1,9 +1,5 @@
 # **Hi there 👋 I'm sebby wekesa**
 
-<!--
-**sebby-wekesa/sebby-wekesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
  ## **About me**
 
 - 🔭 😄 Pronouns: Mr✨
@@ -13,4 +9,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: give me a call or an email💬
 - I’m currently working on Machine learning project.
 - ⚡ Fun fact: I love watching :clapper: movies.
+
+<!--
+**sebby-wekesa/sebby-wekesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 -->
