@@ -11,5 +11,5 @@
 - I’m currently working on Machine learning project.
 - ⚡ Fun fact: I love watching :clapper: movies.
 
-## **Tech 
+## ** 🛠 Tech Stack
 python Django flask 
