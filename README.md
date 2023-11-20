@@ -1,6 +1,6 @@
 # **Hi there 👋 I'm sebby wekesa**
 
- ## **About me**
+ ## :octocat:**About me**
 
 - 🔭 😄 Pronouns: Mr✨
 - 🌱 I’m currently learning ethical hacking, Machine Learning and deep learning.
