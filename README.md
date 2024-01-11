@@ -19,7 +19,9 @@
  ![NumPy Badge](https://camo.githubusercontent.com/6631ab3e404c95feff2366126736bf6b3759e4be11357ea07405a3527b9a3138/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 </div>
+
 <div align="center">
  
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -28,6 +30,7 @@
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![GitHub Actions Badge](https://camo.githubusercontent.com/55cedaf14b8525b77d55fde3a791c912f64efb77ba99419e37ea721085b24202/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3230383846463f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465)
 <div>
+ 
  <div align="center">
   
  [![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-377EB8?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
@@ -41,6 +44,7 @@
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 </div>
 
 ## **GitHub Analytics**
