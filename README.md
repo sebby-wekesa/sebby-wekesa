@@ -33,3 +33,5 @@
 [![Seaborn Badge](https://img.shields.io/badge/Seaborn-4E4E4E?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
 ## **GitHub Analytics**
+[![GitHub Repo Views](https://komarev.com/ghpvc/?username=sebby-wekesa)](https://github.com/your-sebby-wekesa/sebby-wekesa)
+
