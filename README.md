@@ -23,5 +23,6 @@
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![GitHub Actions Badge](https://camo.githubusercontent.com/55cedaf14b8525b77d55fde3a791c912f64efb77ba99419e37ea721085b24202/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3230383846463f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465)
 ![Ethical Hacking Badge](https://img.shields.io/badge/Ethical%20Hacking-008000?style=for-the-badge&logo=shield)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
