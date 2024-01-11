@@ -49,6 +49,6 @@
 
 <div align="left">
  
-## **GitHub Analytics** [![GitHub Repo Views](https://komarev.com/ghpvc/?username=sebby-wekesa)](https://github.com/your-sebby-wekesa/sebby-wekesa)
+## ⚙️ **GitHub Analytics** [![GitHub Repo Views](https://komarev.com/ghpvc/?username=sebby-wekesa)](https://github.com/your-sebby-wekesa/sebby-wekesa)
 </div>
 
