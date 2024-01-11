@@ -1,5 +1,4 @@
-**Hi there 👋 I'm sebby wekesa [![GitHub Repo Views](https://komarev.com/ghpvc/?username=sebby-wekesa)](https://github.com/your-sebby-wekesa/sebby-wekesa)
-**
+**Hi there 👋 I'm sebby wekesa [![GitHub Repo Views](https://komarev.com/ghpvc/?username=sebby-wekesa)](https://github.com/your-sebby-wekesa/sebby-wekesa)**
 
  ## :octocat:**About me**
 
