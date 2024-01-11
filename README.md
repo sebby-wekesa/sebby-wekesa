@@ -32,4 +32,4 @@
 [![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-377EB8?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
 [![Seaborn Badge](https://img.shields.io/badge/Seaborn-4E4E4E?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
-##GitHub Analytics
+**GitHub Analytics
