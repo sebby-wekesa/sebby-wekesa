@@ -51,7 +51,6 @@
  
 ## ⚙️ **GitHub Analytics** [![GitHub Repo Views](https://komarev.com/ghpvc/?username=sebby-wekesa)](https://github.com/your-sebby-wekesa/sebby-wekesa)
 </div>
-# Hi there, I'm Sebby Wekesa! 👋
 
 ## 🚀 My GitHub Stats
 
