@@ -51,4 +51,16 @@
  
 ## ⚙️ **GitHub Analytics** [![GitHub Repo Views](https://komarev.com/ghpvc/?username=sebby-wekesa)](https://github.com/your-sebby-wekesa/sebby-wekesa)
 </div>
+# Hi there, I'm Sebby Wekesa! 👋
 
+## 🚀 My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebby-wekesa&show_icons=true&theme=radical)
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebby-wekesa&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sebby-wekesa&theme=radical)
+
+## 📫 How to reach me
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Website: yourwebsite.com
