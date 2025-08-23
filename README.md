@@ -60,8 +60,14 @@
 
 ## 📫 How to reach me
 
-[<img src="https://simpleicons.org/icons/x.svg" width="30" alt="X" />](https://twitter.com/your_username)
-[<img src="https://simpleicons.org/icons/linkedin.svg" width="30" alt="LinkedIn" />](https://linkedin.com/in/your_username)
-[<img src="https://simpleicons.org/icons/github.svg" width="30" alt="GitHub" />](https://github.com/your_username)
-[<img src="https://simpleicons.org/icons/instagram.svg" width="30" alt="Instagram" />](https://instagram.com/your_username)
-- Website: [yourwebsite.com](https://sebby-wekesa.github.io/github.io/)
+## 🔗 Connect with me:
+
+<a href="https://twitter.com/your_username" target="_blank" rel="norell">
+  <img src="https://simpleicons.org/icons/x.svg" width="30" height="30" alt="Follow me on X" style="margin-right: 10px;" />
+</a>
+<a href="https://linkedin.com/in/your_username" target="_blank" rel="norell">
+  <img src="https://simpleicons.org/icons/linkedin.svg" width="30" height="30" alt="Connect on LinkedIn" style="margin-right: 10px;" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://simpleicons.org/icons/gmail.svg" width="30" height="30" alt="Send me an email" />
+</a>
