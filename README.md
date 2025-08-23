@@ -59,5 +59,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sebby-wekesa&theme=radical)
 
 ## 📫 How to reach me
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Website: yourwebsite.com
+- Twitter: [@sebby-wekesa](https://twitter.com/Sebby_wekesa)
+- Website: [yourwebsite.com](https://sebby-wekesa.github.io/github.io/)
