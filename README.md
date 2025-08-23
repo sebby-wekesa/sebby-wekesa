@@ -60,14 +60,6 @@
 
 ## 📫 How to reach me
 
-## 🔗 Connect with me:
-
-<a href="https://twitter.com/your_username" target="_blank" rel="norell">
-  <img src="https://simpleicons.org/icons/x.svg" width="30" height="30" alt="Follow me on X" style="margin-right: 10px;" />
-</a>
-<a href="https://linkedin.com/in/your_username" target="_blank" rel="norell">
-  <img src="https://simpleicons.org/icons/linkedin.svg" width="30" height="30" alt="Connect on LinkedIn" style="margin-right: 10px;" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://simpleicons.org/icons/gmail.svg" width="30" height="30" alt="Send me an email" />
-</a>
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
