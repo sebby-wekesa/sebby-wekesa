@@ -58,7 +58,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sebby-wekesa&theme=radical)
 
-## 📫 How to reach me
+## 📫 How to reach me 🚀 
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sebby-wekesa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebby-wekesa-1532781a0)
