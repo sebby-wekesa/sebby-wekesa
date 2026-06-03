@@ -56,7 +56,7 @@
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sebby-wekesa&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sebby-wekesa&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=sebby-wekesa&theme=radical)
 
 ## 📫 How to reach me 🚀 
 
