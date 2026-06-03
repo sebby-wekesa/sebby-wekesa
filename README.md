@@ -52,9 +52,9 @@
 ## ⚙️ **GitHub Analytics** 🚀 [![GitHub Repo Views](https://komarev.com/ghpvc/?username=sebby-wekesa)](https://github.com/your-sebby-wekesa/sebby-wekesa)
 </div>
 
-![Sebby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebby-wekesa&show_icons=true&theme=radical)
+![Sebby's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sebby-wekesa&show_icons=true&theme=radical)
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebby-wekesa&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sebby-wekesa&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sebby-wekesa&theme=radical)
 
