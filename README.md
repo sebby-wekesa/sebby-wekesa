@@ -54,7 +54,7 @@
 
 ![Sebby's GitHub Stats](https://github-readme-stats.shion.dev/api?username=sebby-wekesa&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sebby-wekesa&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=sebby-wekesa&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sebby-wekesa&theme=radical)
 
