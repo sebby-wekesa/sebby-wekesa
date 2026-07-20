@@ -1,15 +1,19 @@
 #  **Hi there 👋 I'm sebby wekesa** [![GitHub Repo Views](https://komarev.com/ghpvc/?username=sebby-wekesa)](https://github.com/your-sebby-wekesa/sebby-wekesa)
 
- ## :octocat:**About me**
+# 👋 About Me
 
-- 🔭 😄 Pronouns: Mr✨
-- 🌱 I’m currently learning ethical hacking, Machine Learning and deep learning.
-- 👯 I’m looking to collaborate on Machine Learning/Deep Learning, and penetration testing; research work, and publication. 💻
-- 🛄 Proficient in Python-Machine Learning-Deep Learning-Tensorflow & Backend (Python, Django, kali linux, Core PHP and FLASK)
-- 🤔 I’m looking for help with Computer vision and cyberSecurity.
-- 📫 How to reach me: give me a call or an email💬
-- I’m currently working on Machine learning project.
-- ⚡ Fun fact: I love watching :clapper: movies.
+I'm **Sebby Wekesa**, a software engineer from **Kenya** passionate about building scalable backend systems, AI-powered applications, and enterprise software that solves real-world problems.
+
+* 🚀 Currently building production-grade software including **FleetIQ** (a multi-tenant fleet management platform) and an **AI-powered crop disease detection system** using computer vision.
+* 🧠 Passionate about **Machine Learning**, **Deep Learning**, **Computer Vision**, **Cybersecurity**, and **Backend Engineering**.
+* 💻 I primarily work with **Python**, **Django**, **FastAPI**, **React**, **TypeScript**, **PostgreSQL**, **Supabase**, **Docker**, and **GitHub Actions**.
+* 🌱 Currently expanding my knowledge in **System Design**, **MLOps**, **Ethical Hacking**, **Cloud Deployment**, and **CI/CD**.
+* 🔬 Interested in applying Artificial Intelligence to agriculture, healthcare, logistics, and business automation.
+* 🤝 Open to collaborating on open-source projects, backend systems, machine learning research, and AI applications.
+* 📚 I enjoy learning how complex systems work—from distributed architectures and accounting engines to computer vision models and deployment pipelines.
+* 🎯 My goal is to become a software engineer who builds reliable, scalable products that combine strong software engineering practices with practical AI solutions.
+* 🎬 Outside coding, you'll probably find me watching movies or experimenting with new technologies.
+
 
 ## 🛠 Tech Stack
 <div align="center">
