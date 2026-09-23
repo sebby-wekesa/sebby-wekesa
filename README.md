@@ -13,6 +13,7 @@ I'm **Sebby Wekesa**, a software engineer from **Kenya** passionate about buildi
 * 📚 I enjoy learning how complex systems work—from distributed architectures and accounting engines to computer vision models and deployment pipelines.
 * 🎯 My goal is to become a software engineer who builds reliable, scalable products that combine strong software engineering practices with practical AI solutions.
 * 🎬 Outside coding, you'll probably find me watching movies or experimenting with new technologies.
+* improving every day
 
 
 ## 🛠 Tech Stack
